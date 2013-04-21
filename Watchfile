@@ -1,0 +1,7 @@
+watch %r{^haml/.*\.haml$} do
+  system 'rake haml'
+end
+
+watch %r{^coffee/.*\.coffee$} do
+  system 'rake coffee'
+end
