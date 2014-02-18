@@ -13,7 +13,7 @@
 []: {{{1
 
   phonegap-android-coffee-haml - use coffeescript and haml to build
-  phongap apps on android
+  phonegap apps on android
 
   Use bundler to install the required gems; use rake to build; use
   watchr to update when files are modified.
